@@ -32,15 +32,15 @@
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.KangMei.WisdomLandPush</string>
+               <string>com.huaqi.home</string>
                <key>bundle-version</key>
-               <string>1.0.0</string>
+               <string>2.0.0</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>KM智慧小助手</string>
+               <string>AgdChassis</string>
                <key>title</key>
-               <string>KM智慧小助手</string>
+               <string>AgdChassis</string>
            </dict>
        </dict>
    </array>
